@@ -1,0 +1,32 @@
+.a{
+    width: 100%;
+    height: 150px;
+    background:red;
+    border:solid 2px #000;
+    border-radius:30px;
+    font-size:3em;
+    text-align:center;
+    line-height:100px;
+    
+}
+.b{
+    background-image:-webkit-linear-gradient(right, blue, pink,purple);
+    font-family: 'Dancing Script', cursive;
+}
+.c{
+    background-image:-webkit-linear-gradient(red,yellow,darkgreen);   
+    font-family: 'Pacifico', cursive;
+}
+.d{
+    background-image:-webkit-linear-gradient(bottom right, red,orange,yellow,green,blue,indigo,violet);
+    font-family: 'Kaushan Script', cursive;
+}
+.e{
+    background-image:-webkit-repeating-linear-gradient(Chartreuse,Crimson 10%,Cyan 20%);
+    font-family: 'Pacifico', cursive;
+}
+.f{
+    background-image:-webkit-repeating-linear-gradient(75deg,darkblue,HotPink 10%,indigo 20% );
+    font-family: 'Sacramento', cursive;
+    font-size: 5em;
+}
